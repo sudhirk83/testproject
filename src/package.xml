@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>FFDC POC Proto 1</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <namespacePrefix>ffdc_proto_1</namespacePrefix>
+    <types>
+        <members>OpportunityAPI</members>
+        <name>ApexClass</name>
+    </types>
+    <version>23.0</version>
+</Package>
